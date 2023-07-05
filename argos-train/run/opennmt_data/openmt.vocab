@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++ -mwindows laba.c -static-libstdc++ -static-libgcc -o laba
