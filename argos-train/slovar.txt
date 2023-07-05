@@ -1,0 +1,3631 @@
+Алтарь
+
+ara, ae f
+
+алчный
+
+avarus, a, um
+
+атрий
+
+atrium, i n
+
+ 
+
+ 
+
+Бедность
+
+in-opia, ae f
+
+бедный
+
+pauper, gen: pauperis
+
+бежать
+
+curro, cucurri, cursum 3
+
+без
+
+sine + Abl.
+
+безобразный, постыдный
+
+turpis, turpis, turpe
+
+безопасный
+
+tutus, a, um
+
+безостановочно, вплоть до
+
+usque
+
+белоснежный
+
+candidus, a, um
+
+белый
+
+albus, a, um
+
+бережливый
+
+parcus, a, um
+
+беспокоить
+
+vexo, vexâvi, vexâtum 1
+
+библиотекарь
+
+bibliothecarius, i m
+
+благо, благополучие
+
+salus, salûtis f
+
+благодарность
+
+gratia, ae f
+
+благодеяние
+
+beneficium, i n
+
+благополучие, успех
+
+res secundae
+
+благочестие
+
+pietas, pietâtis f
+
+ближайший
+
+proximus, a, um
+
+близ, рядом
+
+prope + Acc.
+
+бог
+
+deus, i m
+
+богатый
+
+opulentus, a, um
+
+богатый
+
+dives, dives, dives, gen: divitis
+
+богиня
+
+dea, ae f
+
+более, больше
+
+magis
+
+болезнь
+
+morbus, i m
+
+боль, горе
+
+dolor, dolôris m
+
+больной
+
+aeger, aegra, aegrum
+
+больший (срав. степ.)
+
+maior, maior, maius
+
+большой
+
+magnus, a, um
+
+большой; пожилой
+
+grandis, grandis, grande
+
+борода
+
+barba, ae f
+
+бояться
+
+timeo, timui, – , 2
+
+брат
+
+frater, fratris m
+
+брать, принимать
+
+sumo, sumpsi, sumptum 3
+
+бросать
+
+iacio, ieci, iactum 3
+
+будущий
+
+futûrus 
+
+буква; литература,
+
+        письменность
+
+littera, ae f; litterae, litterârum f
+
+быстро
+
+cito
+
+быстро
+
+celeriter
+
+быстрый
+
+rapidus, a, um
+
+быстрый
+
+celer, celeris, celere
+
+быстрый
+
+alacer, alacris, alacre
+
+быть
+
+sum, fui, – , esse
+
+быть
+
+ad-sum, afui, – , adesse
+
+быть в силах, мочь
+
+pos-sum, potui, – , posse
+
+быть внутри
+
+insum, fui, – , esse
+
+быть должным
+
+debeo, debui, debitum 2
+
+быть здоровым,
+
+       приветствовать
+
+salveo 2
+
+быть открытым
+
+pateo, patui, --, 2
+
+ 
+
+ 
+
+В, на (с вин. на вопрос
+
+ куда, с отлож. на вопрос где)
+
+in
+
+ваш, ваша, ваше
+
+verter, vestra, vestrum
+
+в другое место
+
+alio
+
+величайший
+
+plurimus, a, um
+
+век
+
+saeculum, i n
+
+вера
+
+fides, fidei f
+
+верить
+
+credo, credidi, creditum 3
+
+верный
+
+fidêlis, fedêlis, fidêle
+
+верный
+
+certus,a, um
+
+вероятно, действительно,
+
+        в  самом деле
+
+quidem
+
+весна
+
+ver, veris n
+
+вести
+
+duco, duxi, ductum 3
+
+вести
+
+ago, êgi, actum, 3
+
+весь
+
+omnis, omnis, omne
+
+ветер
+
+ventus, i m
+
+вешать
+
+suspendo, pensi, pensum 3
+
+вечный
+
+sempiternus
+
+вещь, дело, предмет
+
+res, rei f
+
+видеть
+
+video, vîdi, vîsum 2
+
+вилла
+
+villa, ae f
+
+вино
+
+vinum, i n
+
+виноград
+
+uva, ae f
+
+внезапно
+
+subito
+
+внимательный
+
+attentus, a, um
+
+вода
+
+aqua, ae f
+
+возделывать; почитать
+
+colo, colui, cultum 3
+
+возникать
+
+emergo, mersi, mersum 3
+
+возмущенный
+
+indignâtus, a, um
+
+воин
+
+miles, militis m
+
+вокруг
+
+circum + Acc.
+
+волк
+
+lupus, i m
+
+волна
+
+unda, ae f
+
+вольный
+
+licens, gen: licentis
+
+вообще
+
+omnîmo
+
+ворота
+
+porta, ae f
+
+воспитывать
+
+educo, educâvi, educâtum 1
+
+восходить
+
+ascendo, ascendi, ascensum 3
+
+вот
+
+ecce
+
+война
+
+bellum, i n
+
+войско
+
+exersitus, us m
+
+вперед, за
+
+pro + Abl.
+
+враг
+
+hostis, hostis   m
+
+врач
+
+medicus, i n
+
+вредить
+
+noceo, nocui, nocitum 2
+
+время
+
+tempus, temporis n
+
+всегда
+
+semper
+
+вскоре
+
+mox
+
+вход
+
+ostium, i n
+
+входить
+
+intro, intrâvi, intrâtum 1
+
+вчера
+
+heri
+
+вы
+
+vos
+
+высокий
+
+altus, a, um
+
+высокомерный
+
+superbus, a, um
+
+выставлять
+
+expôno, posui, positum 3
+
+высший
+
+summus, a, um
+
+ 
+
+ 
+
+Где
+
+ubi
+
+глаз
+
+oculus, i m
+
+глупость
+
+stultitia, ae f
+
+глупый
+
+stultus, a, um
+
+гнев
+
+ira, irae f
+
+говорить, разговаривать
+
+loquor, locûtus sum, loqui 3
+
+говорить, именовать
+
+dico, dixi, dictum 3
+
+говорить, сказать (недостат.
+
+      глаг.)
+
+aio, ait
+
+inquam, inquit
+
+год
+
+annus, i m
+
+голова
+
+caput, capitis n
+
+голос
+
+vox, vocis f
+
+голубой
+
+caeruleus, a, um
+
+голый
+
+nudus, a, um
+
+гора
+
+mons, montis m
+
+город
+
+urbs, urbis f
+
+горький, трудный
+
+asper, era, erum
+
+государство
+
+civitas, civitâtis f
+
+государство, республика
+
+res pulica
+
+готовить
+
+paro, parâvi, parâtum 1
+
+гражданин
+
+civis, civis m,f
+
+гробница
+
+sepulcrum, i n
+
+груз, бремя
+
+sarcina, ae f
+
+грязный
+
+sordidus, a, um
+
+гулять
+
+ambulo, ambulâvi, ambulatum 1
+
+ 
+
+ 
+
+Даже, даже если
+
+etiam, etiamsi
+
+давать
+
+praebeo, praebui, praebitum 2
+
+дарить, давать
+
+dono, donâvi, donâtum 1
+
+дать
+
+do, dedi, datum, dare 1
+
+дважды
+
+bis
+
+дверь
+
+ianua, ae f
+
+двигать
+
+moveo, môvi, môtum 2
+
+девочка
+
+puella, ae f
+
+девушка
+
+virgo, virginis f
+
+делать
+
+facio, fêci, factum 3
+
+делить, присуждать
+
+tribuo, tribui, tribûtum 3
+
+день
+
+dies, diêi m
+
+деньги
+
+pecunia, ae f
+
+деревенский
+
+rusticus, a, um
+
+дерево
+
+arbor, arboris f
+
+деревня
+
+rus, ruris n
+
+держать
+
+teneo, tenui, tentum 2
+
+дети
+
+liberi, liberôrum m
+
+длинный
+
+longus, a, um
+
+добро
+
+bonitas, bonitâtis f
+
+добровольно
+
+sponte
+
+доблесть
+
+virtus, virtûtis f
+
+доводить, приводить
+
+ad-dûco, duxi, ductum, 3
+
+дождь
+
+pluvia, ae f
+
+долго
+
+diu
+
+дом
+
+domus, us f
+
+дороговизна; любовь, почет
+
+caritas, caritâtis f
+
+дорогой
+
+carus, a, um
+
+доска, таблица
+
+tabula, ae f
+
+достаточно
+
+satis = sat
+
+достойный
+
+dignus, a, um
+
+дочь
+
+filia, ae f
+
+дощечка
+
+tabella, ae f
+
+древний
+
+antiquus, a, um
+
+друг
+
+amîcus, i m
+
+другой
+
+alius, alia, aliud
+
+другой (из двух)
+
+alter, altera, alterum
+
+дружба
+
+amicitia, ae f
+
+дрянной
+
+vilis, vilis, ville
+
+думать, считать
+
+puto, putâvi, putâtum 1
+
+дуновение, дух
+
+spiritus, us m
+
+душа
+
+anima, ae f
+
+ 
+
+ 
+
+Единичный, исключительный
+
+singulâris, singulâris, singulâre
+
+единожды, однажды
+
+semel
+
+ежедневно
+
+cotidie
+
+если
+
+si
+
+если бы; о, если бы!
+
+utinam
+
+если не, если бы не; кроме
+
+ni, nisi
+
+есть
+
+edo, edi, esum, edere (esse)
+
+еще не
+
+nondum
+
+ 
+
+ 
+
+Жаждать
+
+sitio, sitîvi (ii), sitîtum 4
+
+жаловаться
+
+lamento, lamentâvi, lamentâtum 1
+
+желать
+
+volo, volui, – , velle
+
+желать
+
+valeo, valui, – , 2
+
+желать
+
+cupio, cupîvi, cupîtum 3
+
+железо
+
+ferrum, i n
+
+жена
+
+uxor, uxôris f
+
+женщина
+
+mulier, mulieris f, matrôna, ae f,
+
+femina, ae f
+
+животное
+
+animal, animalis n
+
+жизнь
+
+vita, ae f
+
+жилище, дом
+
+casa, ae f
+
+житель
+
+incola, ae m f
+
+жить
+
+vivo, vixi, victum 3
+
+жребий
+
+sors, sortis f
+
+ 
+
+ 
+
+За, вне
+
+extra
+
+за, по ту сторону
+
+ultra + Acc.
+
+за, после
+
+post + Acc.
+
+забывать (кого+дат.)
+
+obliviscor, oblîtus sum, oblivisci 3
+
+зависть
+
+invidia, ae f
+
+завтра
+
+cras
+
+закон
+
+lex, legis f
+
+затем
+
+deinde
+
+захватывать
+
+occupo, occupâvi, occupâtum 1
+
+защищать
+
+defendo, defendi, defensum 3
+
+звать
+
+voco, vocâvi, vocâtum 1
+
+звезда
+
+stella, ae f
+
+зверь
+
+bestia, ae f
+
+здание
+
+aedificium, i n
+
+здесь
+
+hîc
+
+здоровый
+
+sanus, a, um
+
+здравый, здоровый
+
+salvus, a, um
+
+земледелец
+
+agricola, ae m
+
+земля
+
+terra, ae f
+
+земля; на земле
+
+humus, i f; humi
+
+зима; зимой
+
+hiems, hiemis f; hieme
+
+злой
+
+malus, a, um
+
+змея
+
+vipera, ae f
+
+знак
+
+signum, i n
+
+знатный
+
+nobilis, nobilis, nobile
+
+знать
+
+scio, scivi (ii), scitum 4
+
+золото
+
+aurum, i m
+
+зритель
+
+spectâtor, spectatôris m
+
+зуб
+
+dens, dentis m
+
+ 
+
+ 
+
+ 
+
+ 
+
+И
+
+et; -que
+
+и не
+
+nec = neque
+
+и также, а также
+
+atque = ac
+
+и тот и другой
+
+uterque, utraque, utrumque
+
+и чтобы не
+
+neve
+
+ибо
+
+enim
+
+ибо, ведь
+
+nam
+
+идти
+
+eo, ii, itum, ire, propero, properâvi, properâtum 1, cedo, cessi, cessum 3
+
+игра; школа
+
+ludus, i m
+
+играть
+
+ludo, lisi, lusum 3
+
+из, от, со времени
+
+e, ex
+
+из-за, по причине
+
+ob + Acc.
+
+избегать
+
+vito, vitâvi, vitâtum 1
+
+известный
+
+notus, a, um
+
+извещать
+
+nuntio, nuntiâvi, nuntiâtum 1
+
+изгонять
+
+ex-igo, êgi, actum 3
+
+изречение
+
+proverbium, i n
+
+излишний
+
+supervacuus, a, um
+
+изменчивый
+
+mutabilis, mutabilis, mutabile
+
+изобилие
+
+copia, ae f
+
+изящный
+
+lepidus, a, um
+
+или
+
+aut, sive = seu, vel
+
+или; то ли... то ли
+
+seu = sive; seu...seu
+
+именовать
+
+nomino, nominâvi, nominâtum 1
+
+иметь
+
+habeo, habui, habitum 2
+
+иметь обыкновение
+
+soleo, solutus sum, solêre 2
+
+имя
+
+nomen, nominis n
+
+иногда
+
+interdum
+
+иноземный
+
+perigrînus, a, um
+
+исключение
+
+exceptio, exceptiônis f
+
+искусство
+
+ars, artis f
+
+история, деяния, подвиги
+
+res gestae
+
+источник
+
+fons, fontis m
+
+исцелять
+
+sano, sanâvi, sanâtum 1
+
+итак
+
+ita; itaque, igitur
+
+ 
+
+ 
+
+К, до; у, при
+
+ad+Acc
+
+кабинет
+
+tablînum, i n
+
+каждый
+
+quisque, quaeque, quidque
+
+каждый, всякий
+
+unusquisque, unaquaeque,  unumquodque
+
+каждый, любой
+
+quilibet, quaelibet, quodliet
+
+как
+
+ut
+
+как долго
+
+quamdiu
+
+как только, лишь только
+
+simul, simulac
+
+как, насколько
+
+quam
+
+как... как
+
+cum... tum
+
+каким образом, как
+
+quomodo
+
+какой
+
+quantus, a, um
+
+какой
+
+qualis, qualis, quale
+
+какой угодно
+
+quivis, quaevis, quodvis
+
+какой-то, какой-нибудь,
+
+       какой- либо
+
+aliquis, aliqua, aliquod
+
+какой-то, некий
+
+quidam, quaedam, quoddam
+
+камень, украшение
+
+gemma, ae f
+
+карта; открытка
+
+charta ae f
+
+класть
+
+pono, posui, positum 3
+
+книга
+
+liber, libri m
+
+когда, в то время как (союз)
+
+cum
+
+когда-то
+
+olim
+
+когда-то, некогда
+
+quondam
+
+корабль
+
+navis, navis f
+
+кормить
+
+nutrio, nutrîvi, nutrîtum 4
+
+конец
+
+finis, finis m
+
+кончать
+
+finio, finîvi, finîtum 4
+
+кость
+
+os, ossis n
+
+который (из двух)
+
+uter, utra, utrum
+
+который, какой
+
+qui, quae, quod
+
+кто бы ни, что бы ни, всякий кто, все что
+
+quisquis, quidquid
+
+кто, что
+
+quis, quid
+
+кто-нибудь, что-нибудь
+
+aliquis, aliquid
+
+красивый
+
+pulcher, pulchra, pulchrum
+
+красный
+
+ruber, rubra, rubrum
+
+краткий
+
+brevis, brevis, breve
+
+краткость
+
+brevitas, brevitâtis f
+
+кричать
+
+clamo, clamâvi, clamâtum 1
+
+круглый
+
+rotundus, a, um
+
+куда
+
+quo
+
+ 
+
+ 
+
+Ласково, любезно
+
+benigne
+
+лгать
+
+mentior, mentîtus sum, mentîri 4
+
+левый
+
+sinister, sinistra, sinistrum
+
+легат, посол
+
+legâtus, i m
+
+легкий
+
+levis, levis, leve
+
+легкий, нетрудный
+
+facilis, facilis, facile
+
+легкомысленно
+
+temere
+
+лежать
+
+iaceo, iacui, – , 2
+
+лекарство
+
+remedium, i n
+
+лекарство
+
+medicamentum, i n
+
+ленивый
+
+piger, pigra, pigrum
+
+лес
+
+silva, ae f
+
+лето
+
+aestas, aestâtis f
+
+лечить
+
+curo, curâvi, curâtum 1
+
+лживый
+
+mendax, mendâcis
+
+ли
+
+an
+
+ли, разве (вопросительная частица)
+
+-ne
+
+лилия
+
+lilium, i n
+
+лист
+
+folium, i n
+
+лишать (чего + отлож.)
+
+privo, privâvi, privâtum 1
+
+луна
+
+luna, ae f
+
+лучший
+
+optimus, a, um
+
+лучший
+
+melior, melior, melius
+
+любить
+
+amo, amâvi, amâtum
+
+любить, почитать
+
+diligo, dilexi, dilectum 3
+
+любовь
+
+amor, amoris  m
+
+любящий
+
+amans, amantis, m f
+
+ 
+
+ 
+
+Маленький
+
+parvus, a, um
+
+маленький; несчастный
+
+miser, misera, miserum
+
+мало, немного
+
+paulum = paulo
+
+мальчик
+
+puer, pueri m
+
+мать
+
+mater, matris f
+
+медведь
+
+ursus, i m
+
+медицина
+
+medicîna, ae f
+
+медленно
+
+lente
+
+между тем
+
+interea
+
+менее всего
+
+minime
+
+менять
+
+muto, mutâvi, mutâtum 1
+
+место
+
+locus, i m
+
+месяц
+
+mensis, mensis m
+
+милый; благодарный
+
+gratus, a, um
+
+мир
+
+pax, pacis f
+
+мне
+
+mihi
+
+море
+
+mare, maris n
+
+молва
+
+fama, ae f
+
+молния
+
+fulmen, fulminis n
+
+молодой человек
+
+adulescens, ntis
+
+молоко
+
+lac, lactis n
+
+молчать
+
+taceo, tacui, tacitum 2
+
+множество
+
+multitûdo, multitûdinis f
+
+многие, многочисленные
+
+plures, plures, plure
+
+многий
+
+multus, a, um
+
+моряк
+
+nauta, ae m
+
+мой, моя, мое
+
+meus, mea, meum
+
+мощь, сила
+
+potestas, potestâtis f
+
+мудрость
+
+sapientia, ae f
+
+мудрый
+
+sapiens, gen: sapientis
+
+муж
+
+marîtus, i m
+
+муж, мужчина
+
+vir, viri m
+
+мы
+
+nos
+
+мыть
+
+lavo, lavi, lautum 1
+
+мышь
+
+mus, muris m
+
+мягкий
+
+mollis, mollis, molle
+
+ 
+
+ 
+
+Набожный
+
+pius, a, um
+
+над, наверху
+
+super
+
+надевать
+
+in-duo, indui, indûtum 3
+
+надежда
+
+spes, spei f
+
+надеяться
+
+spero, sperâvi, sperâtum 1
+
+называть
+
+appello, appellâvi, appellâtum 1
+
+наибольший
+
+maximus, a, um
+
+наихудший
+
+pessimus, a, um
+
+наказание
+
+poena, ae f
+
+наказывать
+
+punio, punîvi, punîtum 4
+
+наконец
+
+denique, tandem
+
+наполнять
+
+im-pleo, plêvi, plêtum 2
+
+напоминать, побуждать
+
+ad-moneo, monui, monitum, 1
+
+напрасно
+
+frustra
+
+народ
+
+populus, i m
+
+наставник
+
+magister, i m
+
+наставница
+
+magistra, ae f
+
+настолько, до такой степени
+
+adeo
+
+настоящий
+
+praesens, gen: presentis
+
+наука
+
+scientia, ae f
+
+начало
+
+initium, i n, principium, i n
+
+начинать
+
+incipio, cêpi, ceptum 3
+
+находить
+
+invenio, vêni, ventum 4
+
+наш
+
+noster, nostra, nostrum
+
+не знать
+
+ne-scio, nescîvi, nescîtum 4
+
+не мочь, не быть в состоянии
+
+nequeo, nequîvi, nequîtum, nequîre
+
+не хватать
+
+desum, fui, --, esse
+
+не, нет
+
+non
+
+не, совсем не
+
+haud
+
+небо
+
+caelum, i n
+
+негодный, бесчестный
+
+im-probus, a, um
+
+недавно
+
+modo
+
+недалеко
+
+procul
+
+некоторый
+
+nonnullus, a, um
+
+немедленно
+
+statim
+
+немой
+
+mutus, a, um
+
+ненависть
+
+odium, i n
+
+необходимый
+
+necessarius, a, um
+
+неприятность, огорчение
+
+molestia, ae f
+
+неразумный
+
+insipiens, gen: insipientis
+
+несправедливость
+
+in-iuria, ae f
+
+нести
+
+fero, tuli, lâtum, ferre
+
+нетронутый, целый
+
+intactus, a, um
+
+неужели не, не ли
+
+nonne
+
+нечистый
+
+immundus, a, um
+
+ни один (из двух)
+
+neuter, neutra, neutrum
+
+низкий; скромный
+
+humilis, humilis, humile
+
+никакой
+
+nullus, a, um
+
+никогда
+
+numquam
+
+никто
+
+nemo
+
+ничто
+
+nihil=nil
+
+но
+
+sed
+
+но, же
+
+autem, at
+
+новый
+
+novus, a, um
+
+нога
+
+pes, pedis m
+
+носить, нести
+
+porto, portâvi, portâtum 1
+
+ночь
+
+nox, noctis f
+
+нравиться; постановлять
+
+placeo, placui, placitum 2
+
+нужно, следует (только третье лицо)
+
+oportet, oportuit, oportêre 3
+
+ 
+
+ 
+
+Обвинять
+
+ac-cûso, cusâvi, cusatum, 1
+
+обезьяна
+
+simia, ae f
+
+обещать
+
+pro-mitto, missi, missum 3
+
+обитать
+
+habito, habitâvi, habitâtum 1
+
+облако
+
+nubes, nubis f
+
+область
+
+regio, regiônis f
+
+обливать
+
+per-fundo, fûdi, fûssum 3
+
+обновлять
+
+re-paro, parâvi, parâtum 1
+
+ободрять, испытывать
+
+probo, probâvi, probâtum 1
+
+образ, изображение
+
+imâgo, imaginis f
+
+образ, способ
+
+modus, modi m
+
+обыденный
+
+vulgâris, vulgâris, vulgâre
+
+обычай
+
+mos, moris m
+
+овладевать
+
+tempero, temperâvi, temperâtum 1
+
+овца
+
+ovis, ovis f
+
+огонь
+
+ignis, ignis m
+
+огромный
+
+ingens, ingens, ingens; gen: ingentis
+
+одежда
+
+vestis, vestis f , vestimentum, i n
+
+одевать
+
+vestio, vestîvi, vestîtum 4
+
+один
+
+solus, a, um
+
+одновременно
+
+simul
+
+однажды, как то раз
+
+aliquando
+
+однако
+
+tamen
+
+ожидать
+
+ex-specto, spectâvi, spectâtum 1
+
+озеро
+
+lacus, i m
+
+окно
+
+fenestra, ae f
+
+опасность
+
+periculum, i n
+
+опустошать
+
+vasto, vastâvi, vastâtum 1
+
+опытный
+
+perîtus, a, um
+
+оратор
+
+orâtor, oratôris m
+
+орел
+
+aquila, ae m f
+
+орех
+
+nux, nucis f
+
+оружие
+
+arma, armôrum n
+
+освещать
+
+illustro, illustrâvi, illustrâtum 1
+
+освобождать
+
+libero, liberâvi, liberâtum 1
+
+осень
+
+autumnus, i m
+
+основывать
+
+con-do, dido, ditum 3
+
+основывать, строить
+
+fundo, fundâvi, fundâtum 1
+
+оставаться
+
+maneo, mansi, mansum 3
+
+оставлять
+
+linquo, linqui, – , 3
+
+остров
+
+insula, ae f
+
+от, из
+
+a, ab + Abl.
+
+от, из; о
+
+de + Abl.
+
+отвечать
+
+respondeo, respondi, responsum 2
+
+отвязывать, освобождать
+
+ab-solvo, solvi, solûtum, 3
+
+отдыхать
+
+quiesco, quiêvi, quiêtum 3
+
+отец
+
+pater, patris m
+
+открывать
+
+aperio, aperui, apertum 4
+
+откуда
+
+unde
+
+отмечать
+
+noto, notâvi, notâtum 1
+
+отрицательная частица (употр. с  конъюнктивом)
+
+ne
+
+отрицать
+
+nego, negâvi, negâtum 1
+
+отсутствовать
+
+ab-sum, afui, – abesse
+
+оттуда, затем
+
+inde
+
+отчаиваться
+
+de-spero, sperâvi, sperâtum 1
+
+очень
+
+valde
+
+охранять
+
+custodio, custodîvi, custodîtum 4
+
+охотно
+
+libenter
+
+ошибаться
+
+fallo, fefelli, falsum 3
+
+erro, errâvi, errâtum 1
+
+ 
+
+ 
+
+Падать, случаться
+
+oc-cido, cidi, câsum 3
+
+память
+
+memoria, ae f
+
+пастух
+
+pastor, pastôris m
+
+педагог
+
+paedagôgus, i m
+
+перед, до
+
+ante + Acc.
+
+перед, впереди
+
+prae + Abl.
+
+передавать
+
+tra-do, didi, ditum 3
+
+перенос, перевод
+
+translatio, translatiônis f
+
+переносить
+
+tolero, tolerâvi, tolerâtum 1
+
+первый
+
+primus, a, um
+
+песня
+
+carmen, carminis, n
+
+петь
+
+canto, cantâvi, cantâtum 1
+
+печаль
+
+tristia, ae f
+
+печальный
+
+maestus, a, um, tristis, tristis, triste
+
+писать
+
+scribo, scripsi, scriptum 3
+
+письмо
+
+epistula, ae f
+
+пить
+
+poto, potâvi, potum 1
+
+пить
+
+bibo, bibi, --, 3
+
+пища
+
+victus, us m
+
+плакать
+
+fleo, flêvi, flêtum 2
+
+по причине
+
+propter
+
+по, согласно
+
+secundum +Acc.
+
+победа
+
+victoria, ae f
+
+побеждать
+
+vinco, vici, victum 3
+
+победитель
+
+victor, victôris m
+
+повариха
+
+coqua, ae f
+
+повиноваться
+
+obtempero, obtemperâvi, obtemperâtum
+
+повторять
+
+repetitio, repetitiônis f
+
+погода; буря
+
+tempestas, tempestâtis f
+
+под
+
+sub+Acc et Abl
+
+подвижный
+
+mobilis, mobilis, mobile
+
+подражание
+
+imitatio, imitatiônis f
+
+подражать
+
+imitor, imitâtus sum imitâri 1
+
+подруга
+
+amîca, ae f
+
+подходить
+
+ad-eo, ii, itum, îre
+
+подшучивать
+
+ir-rideo, rîsi, rîsum 2
+
+подчиняться
+
+pareo, parui, – , 2
+
+поздно
+
+sero
+
+пока
+
+dum
+
+пока, до тех пор пока
+
+donec
+
+показывать
+
+ostendo, ostendi, ostentum 3
+
+показывать
+
+monstro, monstrâvi, monstrâtum 1
+
+покой
+
+quies, quiêtis f
+
+покой, тишина
+
+tranquillitas, tranquillitâtis f
+
+покупать
+
+emo, emi, emptum 3
+
+поле
+
+ager, agri m
+
+полезный
+
+utilis, utilis, utile
+
+помещать, размещать
+
+loco, locâvi, locâtum 1
+
+помимо, кроме
+
+praeter + Acc.
+
+помогать
+
+pro-sum, profui, – , prodesse
+
+помогать
+
+iuvo, iuvi, iutum 1
+
+помнить
+
+memini, meminisse; memento
+
+помощь
+
+auxilium, i n
+
+понимать
+
+intellego, intellexi, intellectum 3
+
+понимать, схватывать
+
+com-prehendo, prehendi, prehensum
+
+порицать
+
+vitupero, vituperâvi, vituperâtum 1
+
+порок
+
+vitium, i n
+
+посещать
+
+visito, visitâvi, visitâtum 1
+
+после того как, впоследствии
+
+postquam
+
+последний
+
+ultimus, a, um
+
+постоянный
+
+perpetuus, a, um
+
+постыдно
+
+turpiter
+
+посылать
+
+mitto, misi, missum 3
+
+потом
+
+postea
+
+потому что, так как
+
+quia
+
+похищать, хватать
+
+rapio, rapui, raptum 3
+
+похожий
+
+similis, similis, simile
+
+почему
+
+cur
+
+почет
+
+reverentia, ae f
+
+поэт
+
+poêta, ae m
+
+правда
+
+verum, i n
+
+правдиво
+
+vere
+
+правдивый
+
+verus, a, um
+
+правило
+
+regula, ae f
+
+правильно
+
+recte
+
+править
+
+regno, regnâvi, regnâtum 1
+
+право, закон
+
+ius, iuris n
+
+правый
+
+dexter, dextra, dextrum
+
+праздничный
+
+festus, a, um
+
+праздность
+
+ignavia, ae f
+
+превосходить
+
+super, superâvi, superâtum 1
+
+предназначать
+
+destino, destinâvi, destinâtum 1
+
+предписывать, наставлять
+
+praecipio, cêpi, ceptum 3
+
+предпочитать
+
+malo, maui, – , malle
+
+прежде
+
+antea
+
+прежде, раньше
+
+pridem
+
+прежний
+
+prior, prior, prius
+
+преимущественно
+
+praecipue
+
+преимущественно
+
+plerumque
+
+пренебрегать
+
+sperno, sprevi, spretum 3
+
+пренебрегать
+
+neglego, neglexi, neglectum 3
+
+прибавлять
+
+ad-do, didi, ditum, 3
+
+приближаться
+
+ap-propinquo, âvi, âtum 1
+
+приглашать
+
+invîto, invitâvi, invitâtum 1
+
+пригодный
+
+aptus, a, um
+
+признаваться
+
+fateor, fassus sum, fatêri 2
+
+приказывать
+
+iubeo, iussi, iussum 2
+
+приказывать
+
+impero, imperâvi, imperâtum 1
+
+пример
+
+exemplar, exemplâris n
+
+принимать
+
+ac-cipio, cêpi, ceptum, 3
+
+принимать участие
+
+inter-sum, fui, – , esse
+
+приносить жертву
+
+sacrificio, sacrificâvi, sacrificâtum 1
+
+природа
+
+natûra, ae f
+
+приходить
+
+venio, vêni, ventum 4
+
+приходить
+
+ad-venio, vêni, ventum, 4
+
+причина
+
+causa, ae f
+
+приятный
+
+iucundus, a, um
+
+продавать
+
+vendo, vendidi, venditum 3
+
+промедление
+
+mora, ae f
+
+просвещать
+
+erudio, erudîvi, erudîtum 4
+
+просить, говорить
+
+oro, orâvi, orâtum 1
+
+просить, искать
+
+peto, petîvi, petîtum 3
+
+прославлять
+
+celebro, celebrâvi, celebrâtum 1
+
+просторный, широкий
+
+amplus, a, um
+
+простонародье
+
+vulgus, i n
+
+против
+
+contra + Acc.
+
+против, напротив
+
+adversus + Acc.
+
+противодействовать
+
+ob-sum, fui, – ,esse
+
+прошу, пожалуйста
+
+quaeso
+
+прыгать
+
+salio, salui, saltum 4
+
+прямой
+
+rectus, a, um
+
+птица
+
+avis, avis f
+
+публичный
+
+publicus, a, um
+
+пугать, сильно устрашать
+
+territo, territâvi, – , 1
+
+путешествие, путь
+
+iter, itineris n
+
+ 
+
+ 
+
+Раб
+
+servus i m
+
+работа, труд
+
+labor, labôris m
+
+работа; произведение
+
+opus, operis n
+
+работать
+
+labôro, laborâvi, laborâtum 1
+
+рабство
+
+sertivus, servitûtis f
+
+радоваться
+
+gaudeo, gavîsus sum, gaudêre 2
+
+радостный
+
+laetus, a, um
+
+разве
+
+num
+
+раздражение
+
+irritatio, irritatiônis f
+
+разрушать
+
+deleo, delêvi, delêtum 2
+
+разнообразный
+
+varius, a, um
+
+рана
+
+vulnus, vulneris n
+
+расположенный
+
+situs, a, um
+
+рассказывать
+
+narro, narrâvi, narrâtum 1
+
+рассуждать, спорить
+
+disputo, disputâvi, disputâtum 1
+
+рассудительность
+
+prudentia, ae f
+
+растение
+
+planta, ae f
+
+расчет, мысль
+
+ratio, ratiônis f
+
+ребенок
+
+infans, infantis m
+
+редкий
+
+rarus, a, um
+
+резец, стиль
+
+stilus, i m
+
+река
+
+fluvius, i m
+
+ремесленник
+
+faber, fabri m
+
+речь
+
+oratio, oratiônis f
+
+речь, беседа
+
+sermo, sermônis m
+
+ритуал
+
+ritus, us m
+
+род, народ
+
+gens, gentis f
+
+род, происхождение
+
+genus, generis n
+
+родина
+
+patria, ae f
+
+родитель (отец, мать); родители
+
+parens, parentis m, f; parentes
+
+рождать
+
+pario, peperi, partum 3
+
+рождаться
+
+nascor, natus sum, nasci 3
+
+роза
+
+rosa, ae f
+
+рот
+
+os, oris n
+
+роскошный
+
+luxiriôus, a, um
+
+рука
+
+manus, us f
+
+рука (от локтя до кисти)
+
+bracchium, i n
+
+руководить
+
+administro, ministrâvi, ministrâtum, 1
+
+рукоплескание
+
+plausus, us m
+
+ 
+
+ 
+
+С, вместе (предлог)
+
+cum + Abl.
+
+с этой стороны
+
+citra +Acc.
+
+сад
+
+hortus, i m
+
+сам, самый
+
+ipse, ipsa, ipsum
+
+самый высокий
+
+suprêmus, a, um
+
+свадьба
+
+nuptiae, nuptiârum f
+
+свежий, недавний
+
+recens, gen: recentis
+
+свет
+
+lux, lucis f
+
+светлый
+
+splendidus, a, um
+
+свобода
+
+libertas, libertâtis f
+
+свободный
+
+liber, libera, liberum
+
+своенравный
+
+morôsus, a, um
+
+свой
+
+suus, a, um
+
+священный
+
+sacer, sacra, sacrum
+
+сдерживать
+
+con-tineo, tinui, tentum 3
+
+себя
+
+sui
+
+сегодня
+
+hodie
+
+селение, город
+
+oppidum, i n
+
+село, деревня
+
+vicus, i m
+
+семья
+
+familia, ae f
+
+серебро
+
+argentum, i n
+
+сердце
+
+cor, cordis n
+
+сестра
+
+soror, sorôris f
+
+сидеть
+
+sedeo, sedi, sessum 2
+
+сила
+
+vis (acc. vim, abl. vi, plur. vim)
+
+сильный
+
+fortis, fortis, forte
+
+сказка, история
+
+fabula, ae f
+
+скользить, падать
+
+labor, lapsus sum, labi 3
+
+сколько
+
+quot
+
+сколько
+
+quantum=quanto
+
+сколько раз
+
+quotiens
+
+скрываться, убегать
+
+re-fugio, fûgi, fugitum 3
+
+скупец, жмот
+
+avarus, i m
+
+слабый
+
+debilis, debilis, debile
+
+слава
+
+gloria, ae f
+
+славный
+
+clarus, a, um
+
+сладкий, милый
+
+dulcis, dulcis, dulce
+
+следовательно
+
+ergo
+
+следовать
+
+sequor, secûtus sum, sequi 3
+
+слеза
+
+lacrima, ae f
+
+слишком
+
+nimis
+
+слово
+
+verbum, i n
+
+словно как
+
+velut
+
+служанка
+
+ancilla, ae f
+
+служить
+
+servo, servâvi, servâtum 1
+
+случай
+
+casus, us m
+
+случайно
+
+forte
+
+слышать
+
+audio, audîvi, audîtum 4
+
+смелый
+
+audax, audax, audax, gen: audacis
+
+смертный, смертельный
+
+mortâlis, mortâlis, mortâle
+
+смерть
+
+mors, mortis f
+
+сметь
+
+audeo, ausus sum, audêre 2
+
+смешивать
+
+turbo, turâvi, turâtum 1
+
+смеяться
+
+rideo, risi, risum 2
+
+смотреть
+
+specto, spectâvi, spectâtum 1
+
+снег
+
+nix, nivis f
+
+собака
+
+canis, canis m,f
+
+совершать
+
+ef-ficio, effêci, effectum 3
+
+согласие
+
+concordia, ae f
+
+создавать
+
+creo, creâvi, creâtum 1
+
+солнце
+
+sol, solis m
+
+соль
+
+sal, salis m
+
+сомнительный
+
+dubius, a, um
+
+сон
+
+somnus, i m
+
+соседний
+
+vicînus, a ,um
+
+состояние
+
+status, us m
+
+состоять
+
+con-sto, stiti, – 3
+
+спальня
+
+cubiculum, i n
+
+спать
+
+dormio, dormîvi, dormîtum 4
+
+спор, тяжба
+
+lis, litis f
+
+спорить, ссориться
+
+litigo, litigâvi, litigâtum 1
+
+справлять
+
+emendo, emendâvi, emendâtum 1
+
+спрашивать
+
+rogo, rogâvi, rogâtum 1,
+
+ inter-rogo, rogâvi, rogâtum 1
+
+спрашивать
+
+inquîro, inquisîvi, inquisîtum 3
+
+спрашивать, искать
+
+quaero, quaesîvi, quaesîtum 4
+
+спускаться
+
+descendo, scendi, scensum 3
+
+сражаться
+
+pugno, pugnâvi, pugnâtum 1
+
+сравнивать
+
+comparo, parâvi, paratum 1
+
+среди
+
+inter
+
+ссора
+
+rixa, ae f
+
+ставить вперед, предпочитать
+
+prae-pono, posui, positum 3
+
+старание; наука
+
+studium, i n
+
+старательно
+
+studiôse
+
+стараться; изучать
+
+studeo, studui, – , 2
+
+старик, старуха
+
+senex, senis m,f
+
+старость
+
+senectus, senectûtis f
+
+старуха
+
+anus, us f
+
+стена
+
+murus, i m
+
+степень
+
+gradus, us m
+
+становиться, делаться
+
+fio, factus sum fieri
+
+страх
+
+timor, timôris m
+
+строгий
+
+sevêrus, a, um
+
+строгость
+
+severitas, severitâtis f
+
+строить
+
+aedi-fico, ficâvi, ficâtum, 1
+
+стол
+
+mensa, ae f
+
+столько
+
+tot
+
+столько раз
+
+totiens
+
+стоять
+
+sto, steti, statum 1
+
+судить
+
+existimo, existimâvi, existimâtum 1
+
+судить, считать
+
+iudico, iudicâvi, iudicâtum 1
+
+судьба
+
+fortuna, ae f
+
+суждение
+
+sententia, ae f
+
+счастливый
+
+felix, felix, felix gen: felicis
+
+счастливый
+
+beâtus, a, um
+
+считать, думать
+
+reor, ratus sum, reri 2
+
+сын
+
+filius, i m
+
+сюда
+
+huc
+
+ 
+
+ 
+
+Так как, потому что
+
+quoniam
+
+так, настолько
+
+tam
+
+так; как... так
+
+sic; ut... sic
+
+также, тоже
+
+quoque
+
+такой
+
+talis, talis, tale
+
+тайно
+
+secrêto
+
+там
+
+ibi
+
+тащить
+
+traho, traxi, tractum 3
+
+твой
+
+tuus, a, um
+
+тело
+
+corpus, corporis n
+
+тем не менее, но
+
+verum
+
+темный
+
+obscûrus, a, um
+
+танцевать, прыгать
+
+salto, saltâvi, saltâtum 1
+
+теперь
+
+nunc
+
+терпеливый
+
+patiens, gen: patientis
+
+терпеть
+
+patior, passus sum, pati 3
+
+терпкий
+
+acerbus, a, um
+
+тишина
+
+silentium, i n
+
+товарищ
+
+socius, i m
+
+тогда; как... так
+
+tum; cum... tum
+
+только; не только... но и
+
+solum; non solum, ...sed etiam
+
+тонкий, утонченный
+
+tenius, tenius, tenue
+
+топор
+
+secûris, secûris f
+
+торопиться
+
+festîno, festinâvi, festinâtum 1
+
+тот же, та же, то же
+
+idem, eadem, idem
+
+тот, та, то; он, она, оно
+
+ille, illa, illud
+
+трава
+
+herba, ae f
+
+требовать
+
+postulo, postulâvi, postulâtum 1
+
+трезвость
+
+sobrietas, sobrietâtis f
+
+трогать, касаться
+
+tango, tetigi, tectum 3
+
+трость
+
+baculum, i n; baculus, i m
+
+труба
+
+tuba, ae f
+
+трудный
+
+difficilis, difficilis, difficile
+
+туника
+
+tunica, ae f
+
+ты
+
+tu
+
+тысяча; тысячи
+
+mille; milia
+
+тяжелый, суровый
+
+gravis, gravis, grave
+
+тяжесть
+
+gravitas, gravitâtis f
+
+ 
+
+ 
+
+У, при, возле
+
+apud +Acc
+
+убеждать
+
+ad-hortor, hortâtus sum, hortâri, 1
+
+убегать
+
+fugio, fûgi, fugitum 3
+
+убивать
+
+inter-ficio, fêci, fectum 3, neco, necâvi, necâtum 1, oc-cîdo, cîdi, cîsum 3
+
+уговаривать, предостерегать
+
+moneo, monui, monitum 2
+
+удар
+
+plaga, ae f
+
+удел, жребий
+
+alea, aleae f
+
+удовольствие
+
+voluptas, voluptâtis f
+
+удивительный
+
+mirus, a, um
+
+удивляться
+
+miror, mirâtus sum, mirâri 1
+
+удобный
+
+commodus, a, um
+
+ужасный
+
+horrendus, a, um
+
+уже
+
+iam
+
+узкий
+
+angustus, a, um
+
+узнавать, знать
+
+co-gnosco, gnôvi, gnitum 3
+
+указывать
+
+indico, indicâvi, indicâtum 1
+
+укреплять
+
+firmo, firmâvi, firmâtum 1
+
+укреплять
+
+con-firmo, firmâvi, firmâtum 1
+
+украшение
+
+ornamentum, i n
+
+украшенный
+
+ornâtus, us m
+
+украшать
+
+orno, ornâvi, ornâtum 1
+
+улица, путь, дорога
+
+via, viae f
+
+ум, разумение
+
+mens, mentis f
+
+уменьшать
+
+minuo, minui, minûtum 3
+
+умеренный
+
+moderâtus, a, um
+
+умирать
+
+morior, mortuus sum, mori; moritûrus
+
+упорствовать
+
+per-sevêro, severâvi, severâtum 1
+
+употреблять
+
+utor, usus sum, uti 3
+
+усердие
+
+diligentia, ae f
+
+устанавливать
+
+statuo, statui, statûtum 3
+
+усыновлять
+
+ad-opto, optâvi optâtum, 1
+
+уходить
+
+ab-eo, ii, itum, îre
+
+ученик
+
+discipulus, i m
+
+учить
+
+doceo, docui, doctum, 2
+
+учиться
+
+disco, didici, – , 3
+
+ 
+
+ 
+
+Фиалка
+
+viola, ae f
+
+формировать
+
+formo, formâvi, formâtum 1
+
+форум, площадь
+
+forum, i n
+
+ 
+
+ 
+
+Хватать
+
+capio, cêpi, captum 3
+
+хлестать
+
+verbero, verberâvi, verberâtum 1
+
+хозяин
+
+hospes, hospitis m,f
+
+холод
+
+frigus, frigosis n
+
+хороший
+
+bonus, a, um
+
+хорошо, верно
+
+sane
+
+хотя, несмотря на то что
+
+quamquam
+
+храм
+
+aedes, aedis f, templum, i n
+
+худший, хуже
+
+peior, peior, peius
+
+хвалить
+
+laudo, laudâvi, laudâtum 1
+
+ 
+
+ 
+
+Царь
+
+rex, regis m
+
+цвет
+
+color, colôris m
+
+цветок
+
+flos, floris m
+
+целый, весь
+
+totus, a, um
+
+цена
+
+pretium, i n
+
+ 
+
+ 
+
+Час
+
+hora, ae f
+
+часто
+
+saepe
+
+часть
+
+pars, partis f
+
+человек
+
+homo, hominis m
+
+человеческий
+
+humânus, a, um
+
+через, за
+
+trans + Acc.
+
+через, по
+
+per + Acc.
+
+черный
+
+niger, nigra, nigrum
+
+черный
+
+ater, atra, atrum
+
+честный
+
+honestus, a, um
+
+частный; лишенный
+
+privâtus, a, um
+
+честь
+
+honor, honôris m
+
+четырехугольный
+
+quadratus
+
+число
+
+numerus, i m
+
+читать вслух, произносить
+
+recito, recitâvi, recitâtum 1
+
+читать, собирать, говорить
+
+lego, lêgi, lectum 3
+
+чтение, урок
+
+lectio, lectionis f
+
+что, потому что
+
+quod
+
+чтобы не (союз)
+
+ne
+
+чтобы; как только
+
+ut
+
+чужой
+
+aliênus, a, um
+
+чувствовать, замечать
+
+sentio, sensi, sensum 4
+
+ 
+
+ 
+
+Широкий
+
+latus, a, um
+
+школа
+
+schola, ae f
+
+шутка
+
+iocus, i m
+
+ 
+
+ 
+
+Этот, вот этот
+
+iste, ista, istud
+
+этот, эта, это; он, она. оно
+
+hic, haec, hoc
+
+этот, эта. это
+
+is, ea, id
+
+ 
+
+ 
+
+Юноша, девушка
+
+iuveis, iuvenis m,f
+
+юный
+
+iuvenis, iuvenis, iuvene
+
+Я
+
+ego
+
+являться, обнаруживаться
+
+appareo, apparui, – 2
+
+язык
+
+lingua, ae f
+
+ясный
+
+serenus, a ,um
+
+яйцо
+
+ovum, i n

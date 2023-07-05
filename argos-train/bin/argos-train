@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+
+import argostrain
+from argostrain import train
+
+from_code = input("From code (ISO 639): ")
+to_code = input("To code (ISO 639): ")
+from_name = input("From name: ")
+to_name = input("To name: ")
+version = input("Version: ")
+package_version = version
+argos_version = "1.5"
+
+# If data_exists=False then data is downloaded, otherwise it's assumed to
+# be in settings.SOURCE_PATH and settings.TARGET_PATH
+data_exists = False
+
+train.train(from_code, to_code, from_name, to_name, version, package_version, argos_version, data_exists)
+
